@@ -20,7 +20,7 @@ administrar tareas y notas personales.
 Ver `requirements.txt`.
 
 ## Autor
-Nombre del autor
+Yamilet Flores
 
 ## Estado
 Proyecto en fase inicial: estructura base, entorno virtual y documentación
