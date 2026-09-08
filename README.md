@@ -21,3 +21,7 @@ Ver `requirements.txt`.
 
 ## Autor
 Nombre del autor
+
+## Estado
+Proyecto en fase inicial: estructura base, entorno virtual y documentación
+listos. La lógica de la aplicación aún no está implementada.
